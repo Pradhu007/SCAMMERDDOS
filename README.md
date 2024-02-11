@@ -7,4 +7,4 @@
 
 2. Take note of request url, dont assume the request url to be the same as the url on the top of the page(big mistake)
 
-![Screenshot](Take note of request url.png)
+![Screenshot](requesturl.png)
